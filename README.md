@@ -112,6 +112,12 @@ This is a demonstration of the steps involved in deployment of osTicket, an open
 <br />
 
 <h3>Step 4: Test and Create Mock Tickets</h3>
+
+
+<a href="https://i.imgur.com/q7C52St.jpeg" target="_blank">
+<img src="https://i.imgur.com/q7C52St.jpeg" height="80%" width="80%" alt="Mock ticket resolution"/>
+</a>
+
 <p>
 1. Access osTicket via browser (http://localhost/osticket).
 
