@@ -17,7 +17,7 @@ This tutorial demonstrates the deployment of osTicket, an open-source help desk 
 
 - Internet Information Services (IIS)
 
-- Active Directory Domain Services (AD DS)
+- Active Directory Domain Services (ADDS)
 
 - DNS Server
 
@@ -66,7 +66,7 @@ This tutorial demonstrates the deployment of osTicket, an open-source help desk 
 
 <h3>Step 2: Configure Domain Controller</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="AD DS Setup"/>
+<img src="https://i.imgur.com/i1e7OPR.png" height="80%" width="80%" alt="AD DS Setup"/>
 </p>
 <p>
 
@@ -82,7 +82,7 @@ This tutorial demonstrates the deployment of osTicket, an open-source help desk 
 
 <h3>Step 3: Install and Configure osTicket on Client VM</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Installation"/>
+<img src="https://i.imgur.com/C8FnB5Q.png" height="80%" width="80%" alt="osTicket Installation"/>
 </p>
 <p>
 
