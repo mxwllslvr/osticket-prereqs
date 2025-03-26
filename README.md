@@ -29,7 +29,7 @@ This is a demonstration of the steps involved in deployment of osTicket, an open
 
 <h2>List of Prerequisites</h2>
 
-- Azure Subscription with sufficient credits
+- Azure Subscription with sufficient credits (as of this edit on 3/26/25, Microsoft offers $200 trial credit to new users, potentially allowing well over a month's usage of 1-2 VMs.)
 
 - PHP 7.4.x (with required extensions: php-imap, php-gd, php-mbstring)
 
