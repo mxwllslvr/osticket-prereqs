@@ -47,7 +47,9 @@ This is a demonstration of the steps involved in deployment of osTicket, an open
 
 <h3>Step 1: Provision Azure VMs</h3>
 <p>
+<a href="https://i.imgur.com/zCppQhb.png" target="_blank">
 <img src="https://i.imgur.com/zCppQhb.png" height="80%" width="80%" alt="Azure VM Creation"/>
+</a>
 </p>
 <p>
 
@@ -66,7 +68,9 @@ This is a demonstration of the steps involved in deployment of osTicket, an open
 
 <h3>Step 2: Configure Domain Controller</h3>
 <p>
+<a href="https://i.imgur.com/i1e7OPR.png" target="_blank">
 <img src="https://i.imgur.com/i1e7OPR.png" height="80%" width="80%" alt="AD DS Setup"/>
+</a>
 </p>
 <p>
 
@@ -82,7 +86,9 @@ This is a demonstration of the steps involved in deployment of osTicket, an open
 
 <h3>Step 3: Install and Configure osTicket on Client VM</h3>
 <p>
+<a href="https://i.imgur.com/C8FnB5Q.png" target="_blank">
 <img src="https://i.imgur.com/C8FnB5Q.png" height="80%" width="80%" alt="osTicket Installation"/>
+</a>
 </p>
 <p>
 
