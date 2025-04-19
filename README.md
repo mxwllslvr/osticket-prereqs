@@ -7,7 +7,7 @@ This is a demonstration of the steps involved in deployment of osTicket, an open
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com/watch?v=LOzmM5ZjKi0)
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com/watch?v=LOzmM5ZjKi0) by Tech Hobby
 
 <h2>Environments and Technologies Used</h2>
 
