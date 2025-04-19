@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This is a demonstration of the steps involved in deployment of osTicket, an open-source help desk ticketing system, using Microsoft Azure Virtual Machines. It covers prerequisites, installation, and basic configuration with a two-VM setup including a Domain Controller and Client machine. 😎 <br />
+This is a demonstration of the steps involved in deployment of osTicket, an open-source help desk ticketing system, using Microsoft Azure Virtual Machines. It covers prerequisites, installation, and basic configuration with a two-VM setup including a Domain Controller and Client machine. <br />
 
 <h2>Video Demonstration</h2>
 
