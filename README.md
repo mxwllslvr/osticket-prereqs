@@ -131,11 +131,3 @@ This is a demonstration of the steps involved in deployment of osTicket, an open
 4. Validate DNS resolution from Domain Controller.
 </p>
 <br />
-
-<h2>Notes</h2>
-
-- This setup demonstrates a basic osTicket deployment in a domain environment.
-
-- For production, secure with HTTPS and firewall rules.
-
-- Project showcases skills in Azure, Windows Server administration, IIS, and helpdesk software configuration.
