@@ -139,10 +139,3 @@ This is a demonstration of the steps involved in deployment of osTicket, an open
 - For production, secure with HTTPS and firewall rules.
 
 - Project showcases skills in Azure, Windows Server administration, IIS, and helpdesk software configuration.
-
-<h2>Next Steps</h2>
-
-- Add screenshots of actual setup process (replace placeholder images).
-
-- Document specific DNS settings used.
-- Include sample ticket examples with resolutions.
